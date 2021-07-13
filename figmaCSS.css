@@ -33,6 +33,9 @@ nav{
     font-weight: normal;
     
 }
+#con {
+color: #A5A3A5;
+}
 main{    
     position: absolute;
     width: 636px;
@@ -223,3 +226,6 @@ footer{
     height: 18px;
     padding-left:50%;
 }
+
+/* backgroung */
+
