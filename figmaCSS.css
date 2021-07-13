@@ -1,0 +1,228 @@
+#backgroung {
+ background:linear-gradient(96.07deg, #314755 30.63%, #26A0DA 102.18%) ;
+ width: 1366px;
+ height: 350px;
+}
+body{
+background-color:#0f0a0a;
+background-size: cover;
+position: absolute;
+color: #A5A3A5;
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+font-family: 'Nunito', sans-serif;
+font-style: normal;
+font-weight: 900;
+font-size: 17px;
+line-height: 24px;
+align-self: stretch;
+flex-grow: 0;
+}
+nav{    
+    position: absolute;
+    width: 306px;
+    height: 240px;
+    left: 200px;
+    top: 414px;
+    list-style:none;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+main{    
+    position: absolute;
+    width: 636px;
+    height: 262px;
+    left: 530px;
+    top: 414px;
+}
+#Conceptos {
+    
+    position: absolute;
+    width: 636px;
+    height: 1151px;
+    left: 530px;
+    top: 756px;
+}
+#Web {
+    position: absolute;
+    width: 636px;
+    height: 2448.13px;
+    left: 530px;
+    top: 2178px;    
+}
+#Modelos {
+    position: absolute;
+    width: 636px;
+    height: 1701px;
+    left: 530px;
+    top: 4749px;
+}
+
+h1 {
+    color:#FFFFFF;
+    font-size: 64px;
+    line-height: 87px;
+}
+h2 {
+    color:#FFFFFF;
+    font-size: 40px;
+    line-height: 55px;
+
+}
+h3 {
+    color:#FFFFFF;
+    font-size: 32px;
+    line-height: 44px;
+
+}
+#Var,#cont {
+    font-size: 14px;
+    line-height: 24px;
+    color:#FFFFFF;
+    text-transform: uppercase;
+}
+.circulo {
+width: 80px ;
+height: 80px;
+background-color: #FFFFFF;
+border-radius: 100%;
+}
+.circulo >.imagen{
+padding-top: 18px;
+padding-left:16px;
+}
+.circulo >.imagen2{
+    padding-top: 14px;
+    padding-left:0px;
+    }
+    .circulo >.imagen3{
+        padding-top: 18px;
+        padding-left:24px;
+        }
+     .circulo >.imagen4{
+            width: 95%;
+            height:95%;
+            padding-top: 2px;
+            padding-left:2px;
+            }
+#frase {
+    width: 636px;
+    height: 128px;
+    left: 530px;
+    top: 1987px;
+    padding: 24px;
+    background: #3A3539;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 32px;
+}
+#codig {
+    padding: 0px;
+    width: 636px;
+    height: 368px;
+    left: 0px;
+    top: 124px;
+    background: #3A3539;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-size: 24px;
+    line-height: 32px;
+}
+#Domm {
+    position: static;
+    width: 636px;
+    height: 332.13px;
+    left: 0px;
+    top: 172px;
+}
+#cssimage {
+    position: static;
+    width: 636px;
+    height: 302px;
+    left: 0px;
+    top: 124px;
+
+}
+#persona {
+    position: static;
+    width: 636px;
+    height: 371px;
+    left: 0px;
+    top: 49px;
+}
+#arroba {
+
+    color: #157EFB;
+}
+#Datos {
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    color: #FFFFFF;
+}
+#Sus{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-left: 45%;
+    position: static;
+    width: 636px;
+    height: 48px;
+    left: 0px;
+    top: 144px;
+    background: #157EFB;
+    color: #FFFFFF;
+    border-radius: 8px;
+    font-weight: 700;
+}
+#Nom , #Correo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    position: static;
+    width: 636px;
+    height: 48px;
+    left: 0px;
+    top: 144px;
+    color: rgb(255, 255, 255);
+    background: #0f0a0a;
+    border-radius: 8px;
+    font-weight: 700;
+}
+footer{
+    width:1366px ;
+    height: 174px;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 6530px;
+    bottom: 0%;
+    
+    background: #FFFFFF;
+
+}
+#Leon{
+    width: 636px;
+    height: 44px;
+    color: #000;
+    font-size: 32px;
+    line-height: 44px;
+    font-weight: 700;
+    margin: 16px 0px;
+    padding-left:37%;
+}
+#im {
+    width: 18px;
+    height: 18px;
+    padding-left:50%;
+}
+
+/* backgroung */
+
